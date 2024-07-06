@@ -18,8 +18,7 @@ minimal: false             # use a dark header
 navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "/Intro.md",title="About Me"}
   - {file: "index.html"}
- # - {file: "README.md"}
-  - {file:"hainan_cv.pdf", title:"CV", icon:home}
+  - {file: "README.md"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:hainan.xu@mail.utoronto.ca"}
