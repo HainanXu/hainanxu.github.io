@@ -25,7 +25,7 @@ external:                  # shows a footer with social links - for available ic
   - {title: Mail, icon: envelope, url: "mailto:hainan.xu@mail.utoronto.ca"}
   - {title: Github, icon: github, url: "https://github.com/HainanXu"}
   - {title: Twitter, icon: rss, url: "https://x.com/hainan_xu"}
-  - {title: LinkedIn, icon: linkedin, url: "https://www.linkedin.com/in/hainanxu/"}
+  - {title: LinkedIn, icon: linkedin, url: "https://www.linkedin.com/in/hainan-xu/"}
 
 comments:
 #  disqus_shortname: ""    # see https://disqus.com/
