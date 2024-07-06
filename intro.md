@@ -1,3 +1,9 @@
+---
+title: "About Me"
+permalink: "/Home/"
+layout: page
+---
+
 I am a recent graduate from the University of Toronto. I obtained my M.Sc. in Statistics at the University of Toronto and my bachelor's degree from McMaster University in Mathematics and Statistics.
 
 I am especially passionate about modelling and explaining the dynamics of the real world using mathematical/statistical models. 
